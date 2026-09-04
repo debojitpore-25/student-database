@@ -34,6 +34,7 @@ Each record contains:
 
 Compile using GCC:
 
+
 ```bash
 gcc student_management.c -o student_management
 ```
